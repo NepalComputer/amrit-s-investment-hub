@@ -9,7 +9,7 @@ const Footer = () => {
                 <span className="font-heading text-navy-deep font-bold">W</span>
               </div>
               <span className="font-heading text-primary-foreground font-semibold text-lg">
-                Wagle Investments
+                GrowUp Investment
               </span>
             </div>
             <p className="text-sm text-primary-foreground/50 leading-relaxed max-w-xs">
@@ -45,7 +45,7 @@ const Footer = () => {
 
         <div className="border-t border-primary-foreground/10 pt-8 text-center">
           <p className="text-xs text-primary-foreground/40">
-            © {new Date().getFullYear()} Wagle Investments. All rights reserved. Investment involves risk. Past performance does not guarantee future results.
+            © {new Date().getFullYear()} GrowUp Investment. All rights reserved. Investment involves risk. Past performance does not guarantee future results.
           </p>
         </div>
       </div>

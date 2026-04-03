@@ -21,7 +21,7 @@ const Navbar = () => {
             <span className="font-heading text-navy-deep font-bold text-lg">W</span>
           </div>
           <span className="font-heading text-primary-foreground text-xl font-semibold tracking-tight">
-            Wagle <span className="text-gradient-gold">Investments</span>
+            GrowUp <span className="text-gradient-gold">Investments</span>
           </span>
         </a>
 

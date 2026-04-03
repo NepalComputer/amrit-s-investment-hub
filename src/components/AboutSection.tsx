@@ -21,7 +21,7 @@ const AboutSection = () => {
               </h2>
             </div>
             <p className="text-muted-foreground leading-relaxed">
-              Founded in Tokha, Kathmandu, Wagle Investments has been at the forefront of Nepal's 
+              Founded in Tokha, Kathmandu, GrowUp Investment has been at the forefront of Nepal's 
               investment landscape. Under the leadership of CEO <strong className="text-foreground">Amrit Wagle</strong>, 
               we deliver personalized investment strategies that align with our clients' financial goals 
               and risk appetite.
