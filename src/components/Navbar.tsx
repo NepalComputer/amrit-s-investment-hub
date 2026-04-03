@@ -18,10 +18,10 @@ const Navbar = () => {
       <div className="container flex items-center justify-between h-16 md:h-20">
         <a href="#home" className="flex items-center gap-2">
           <div className="w-9 h-9 rounded-full bg-gold flex items-center justify-center">
-            <span className="font-heading text-navy-deep font-bold text-lg">W</span>
+            <span className="font-heading text-navy-deep font-bold text-lg">G</span>
           </div>
           <span className="font-heading text-primary-foreground text-xl font-semibold tracking-tight">
-            Wagle <span className="text-gradient-gold">Investments</span>
+            GrowUp <span className="text-gradient-gold">Investment</span>
           </span>
         </a>
 

@@ -27,7 +27,7 @@ const HeroSection = () => {
           </h1>
 
           <p className="text-lg md:text-xl text-primary-foreground/70 max-w-2xl leading-relaxed">
-            Wagle Investments offers expert portfolio management, strategic financial planning, 
+            GrowUp Investment offers expert portfolio management, strategic financial planning, 
             and diversified investment solutions to help you grow your wealth with confidence.
           </p>
 
